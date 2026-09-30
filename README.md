@@ -39,7 +39,7 @@ Payment & Returns	Payment methods and reasons for returns
 <br><br>
 <li><img width="1365" height="717" alt="Screenshot 2026-09-30 224426" src="https://github.com/user-attachments/assets/846a63de-d820-45bb-b7c5-27c7a314a1be" /></li>
 <br><br>
-<<li>img width="1365" height="726" alt="Screenshot 2026-09-30 224414" src="https://github.com/user-attachments/assets/e961872f-9cae-4a3b-9341-3815eeb88f26" /></li>
+<li><img width="1365" height="726" alt="Screenshot 2026-09-30 224414" src="https://github.com/user-attachments/assets/e961872f-9cae-4a3b-9341-3815eeb88f26" /></li>
 <br><br>
 <li><img width="1360" height="720" alt="Screenshot 2026-09-30 224352" src="https://github.com/user-attachments/assets/01469e64-b5be-41e8-b54e-608fa733187e" /></li>
 <br><br>
