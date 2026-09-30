@@ -34,20 +34,20 @@ Customer Insights	Best customers, new vs. returning customers, customers who sto
 Product Performance	Best-selling products, most returned products, weak products
 Delivery Analysis	Delivery time and each shipping partner's performance
 Payment & Returns	Payment methods and reasons for returns
-<ol>
-<li><img width="1365" height="720" alt="Screenshot 2026-09-30 204342" src="https://github.com/user-attachments/assets/0e54cf29-df97-48f7-88d7-314eb9574227" /></li>
+
+<img width="1365" height="720" alt="Screenshot 2026-09-30 204342" src="https://github.com/user-attachments/assets/0e54cf29-df97-48f7-88d7-314eb9574227" />
 <br><br>
-<li><img width="1365" height="717" alt="Screenshot 2026-09-30 224426" src="https://github.com/user-attachments/assets/846a63de-d820-45bb-b7c5-27c7a314a1be" /></li>
+<img width="1365" height="717" alt="Screenshot 2026-09-30 224426" src="https://github.com/user-attachments/assets/846a63de-d820-45bb-b7c5-27c7a314a1be" />
 <br><br>
-<li><img width="1365" height="726" alt="Screenshot 2026-09-30 224414" src="https://github.com/user-attachments/assets/e961872f-9cae-4a3b-9341-3815eeb88f26" /></li>
+<img width="1365" height="726" alt="Screenshot 2026-09-30 224414" src="https://github.com/user-attachments/assets/e961872f-9cae-4a3b-9341-3815eeb88f26" />
 <br><br>
-<li><img width="1360" height="720" alt="Screenshot 2026-09-30 224352" src="https://github.com/user-attachments/assets/01469e64-b5be-41e8-b54e-608fa733187e" /></li>
+<img width="1360" height="720" alt="Screenshot 2026-09-30 224352" src="https://github.com/user-attachments/assets/01469e64-b5be-41e8-b54e-608fa733187e" />
 <br><br>
-<li><img width="1363" height="717" alt="Screenshot 2026-09-30 204413" src="https://github.com/user-attachments/assets/78ab4205-d231-4c6c-a43e-735025e10394" /></li>
+<img width="1363" height="717" alt="Screenshot 2026-09-30 204413" src="https://github.com/user-attachments/assets/78ab4205-d231-4c6c-a43e-735025e10394" />
 <br><br>
-<li><img width="1365" height="727" alt="Screenshot 2026-09-30 224434" src="https://github.com/user-attachments/assets/a9a184f4-27c2-4f79-a18f-88968326eca1" /></li>
+<img width="1365" height="727" alt="Screenshot 2026-09-30 224434" src="https://github.com/user-attachments/assets/a9a184f4-27c2-4f79-a18f-88968326eca1" />
 <br>
-</ol>
+
 
 💡 Key Findings
 Total revenue: ₹4.76 Cr, with ₹1.42 Cr profit
@@ -66,4 +66,4 @@ Open Ecommerce.twb in Tableau Desktop or Tableau Public
 If Tableau asks for the data file, select the CSV file
 👤 Author
 
-Your Name · LinkedIn · Email
+Sreelekha.J · www.linkedin.com/in/sreelekha-j-199290p · sreelekha1992@gmail.com
